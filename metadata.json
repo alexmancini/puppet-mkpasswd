@@ -1,0 +1,16 @@
+{
+  "name": "alexmancini-mkpasswd",
+  "version": "0.0.1",
+  "author": "Alex Mancini",
+  "summary": "Puppet random password generator",
+  "license": "Apache 2.0",
+  "source": "ssh://git@github.com:alexmancini/puppet-mkpasswd.git",
+  "project_page": "https://github.com/alexmancini/puppet-mkpasswd",
+  "issues_url": "https://github.com/alexmancini/puppet-mkpasswd/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
